@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?u=1",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Luigi Verdi",
+    "email": "luigi.verdi@example.com",
+    "role": "user",
+    "avatar": "https://i.pravatar.cc/150?u=2",
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "name": "Anna Neri",
+    "email": "anna.neri@example.com",
+    "role": "editor",
+    "avatar": "https://i.pravatar.cc/150?u=3",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Giulia Bianchi",
+    "email": "giulia.bianchi@example.com",
+    "role": "user",
+    "avatar": "https://i.pravatar.cc/150?u=4",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Paolo Gialli",
+    "email": "paolo.gialli@example.com",
+    "role": "moderator",
+    "avatar": "https://i.pravatar.cc/150?u=5",
+    "status": "suspended"
+  }
+]

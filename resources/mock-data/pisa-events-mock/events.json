@@ -1,0 +1,38 @@
+[
+  {
+    "id": "evt_001",
+    "title": "Pisa Hackathon 2026",
+    "date": "2026-06-15T09:00:00Z",
+    "location": "Pisa, Italy",
+    "description": "Annual hackathon event for developers and designers.",
+    "organizer": "Tech Pisa Community",
+    "participants": 150
+  },
+  {
+    "id": "evt_002",
+    "title": "AI Workshop",
+    "date": "2026-07-20T14:00:00Z",
+    "location": "Online",
+    "description": "Introduction to generative AI models and applications.",
+    "organizer": "AI Lab",
+    "participants": 300
+  },
+  {
+    "id": "evt_003",
+    "title": "Startup Pitch Night",
+    "date": "2026-08-05T18:30:00Z",
+    "location": "Innovation Hub, Pisa",
+    "description": "Local startups pitching their ideas to investors.",
+    "organizer": "Venture Capital Group",
+    "participants": 75
+  },
+  {
+    "id": "evt_004",
+    "title": "Web Dev Meetup",
+    "date": "2026-09-10T19:00:00Z",
+    "location": "Coworking Space",
+    "description": "Networking event for web developers.",
+    "organizer": "Dev Connect",
+    "participants": 50
+  }
+]
